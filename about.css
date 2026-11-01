@@ -1,0 +1,154 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+
+
+body{background-image:url("img/k.jpg");
+padding:2.5rem;
+}
+
+.header{
+  background-color:black;
+  width:100%;
+  position:fixed;
+  left:0px;
+  top:0px;
+  border-bottom:solid lightyellow;
+  padding:9px;
+}
+.header__title{
+  color:whitesmoke;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  position:relative;
+  left:18px;
+  font-weight:bold;
+  font-size:70px;
+}
+
+.header__link{
+  text-decoration:none;
+  color:red;
+  padding-left:90px;
+  font-size:50px;
+  font-family:sans-serif;
+}
+
+.header__link:hover{
+  color: yellow;
+  
+.header__link:active{
+  color:green;
+}
+}
+
+.main__text{
+  color:whitesmoke;
+  padding-top:290px;
+  font-family:inter;
+  line-height:1.5;
+}
+
+.main__heading{
+  color:white;
+  line-height:1.5;
+  font-family:Inter;
+  padding-top:3.6rem;
+}
+
+.main__text--paragraph{
+  color:whitesmoke;
+  line-height:1.5;
+  font-family:inter;
+  
+  
+}
+
+.section__table-data{
+  color:whitesmoke;
+  border:1px solid whitesmoke;
+  padding:3rem;
+  font-size:320%;
+}
+
+.section__foot--weight{
+  padding:10px;
+  font-size:0.7rem;
+}
+
+.section__table-head{
+color:whitesmoke;
+border:1px solid whitesmoke;
+padding:2rem;
+width:15%;
+font-size:303%;
+
+}
+
+.section__table-head--padding{
+  color:whitesmoke;
+  border:solid whitesmoke 1px;
+  font-size:3rem;
+}
+
+.section__table{
+  border-collapse:collapse;
+  font-family:'Courier New', Courier, monospace;
+  width:100%;
+  margin-bottom:100px;
+}
+
+
+
+.link{
+  color:whitesmoke;
+  margin-left:200px;
+  text-decoration:none;
+}
+
+.footer__text{
+  color:whitesmoke;
+  font-family:sans-serif;
+  padding-left:2rem;
+}
+
+hr{
+  margin-top:3rem;
+}
+
+
+.aside__head{
+  color:gold;
+  font-family:sans-serif;
+  padding-top:8rem;
+}
+
+.aside__text{
+  font-family:inter;
+  color:whitesmoke;
+}
+
+.aside__head--color{
+  color:whitesmoke; 
+  padding-top:8.5rem;
+  font-family:inter;
+}
+
+.aside__head--style{
+color:red;
+font-family:inter;
+padding-top:8.5rem;
+  }
+  
+
+.article__head{
+  color:white;
+  font-family:inter;
+  padding-top:8rem;
+}
+
+.article__text{
+  color:whitesmoke;
+  line-height:1.5;
+  font-family:inter;
+}
+
